@@ -88,8 +88,9 @@ The system will:
 ----------
 ##  **TEAM MEMBERS**
 
-        Tharun babu C
-        Amirtha K
+       Amirtha K
+       Tharun babu C
+        
         
 ## 🙏 **Thank You for Reviewing Our Project**
 
